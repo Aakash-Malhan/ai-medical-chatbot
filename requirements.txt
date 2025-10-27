@@ -1,0 +1,8 @@
+gradio==4.44.0
+python-dotenv==1.0.1
+pypdf==4.2.0
+fastembed==0.3.4
+pinecone-client==5.0.1
+google-generativeai==0.8.3
+langchain==0.2.14
+langchain-text-splitters==0.2.2
